@@ -745,8 +745,9 @@ h2 {
     font-size: 28px;
     line-height: 1.4em;
     justify-content: center;
-    align-items: center;
-}
+    text-align: center;
+    }
+
 
 h3 {
     font-size: 15px;
