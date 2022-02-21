@@ -549,6 +549,8 @@ cite
     opacity: 0;
     z-index: 500;
     transition: all .3s ease-in-out;
+    background-color: #a42a42;
+    border: 2px white solid;
 }
 
 .scrollToTop span {
