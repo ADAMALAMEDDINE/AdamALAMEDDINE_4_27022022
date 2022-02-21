@@ -378,7 +378,7 @@ a:hover {
     }
     .nav > li .dropdown-menu a,
     .nav > li .dropdown-menu a:hover {
-        color: #484848;
+        color: #313030;
     }
     .nav-invert .site-navigation {
         left: 0;
@@ -468,6 +468,30 @@ nav .caret {
 
 button {
     outline: none!important;
+}
+
+.explain
+{
+    font-size: 22px;
+    margin: auto;
+    width: 65%;
+}
+
+.quote
+{
+    display: block;
+    margin: auto;
+    quotes: none;
+    font-size: 20px;
+    font-style: italic;
+    width: 85%;
+    color: #313030;
+}
+
+cite
+{
+    font-style: normal;
+    font-size: initial;
 }
 
 .btn-rd {
@@ -713,6 +737,8 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    justify-content: center;
+    align-items: center;
 }
 
 h3 {
