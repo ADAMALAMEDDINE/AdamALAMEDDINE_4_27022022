@@ -557,6 +557,11 @@ cite
     margin-top: 6px;
 }
 
+.scrollToTop:hover
+{
+    background-color: #a42a42;
+}
+
 .showScrollTop {
     font-size: 14px;
     opacity: 1;
