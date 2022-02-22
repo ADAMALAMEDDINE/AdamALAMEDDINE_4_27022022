@@ -567,6 +567,7 @@ cite
 .form-control {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
+    width: 300px;
 }
 
 .scrollToTop {
@@ -806,6 +807,7 @@ h4 {
     font-size: 26px;
     color: white;
 }
+
 .white {
     color: black!important;
 }
@@ -816,6 +818,12 @@ h4 {
     color: #000;
     text-align: center;
     font-weight: 700;
+}
+
+.coordonnees
+{
+    font-size: 20px;
+    font-weight: bold;
 }
 .portfolio-thumb {
     margin-bottom: 24px;
