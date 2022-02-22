@@ -565,11 +565,14 @@ cite
 .panel-rd .panel-footer {
     border-radius: 0 0 29px 29px;
 }
-
+label
+{
+    font-size: 18px;
+}
 .form-control {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
-    width: 300px;
+    width: 270px;
 }
 
 .scrollToTop {
@@ -806,8 +809,10 @@ h4 {
 }
 .project
 {
-    font-size: 26px;
+    font-size: 22px;
     color: white;
+    width: auto;
+    font-weight: bold;
 }
 
 .white {
