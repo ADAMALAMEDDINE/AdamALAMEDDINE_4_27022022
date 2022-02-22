@@ -311,6 +311,7 @@ a:hover {
     display: inline-block;
     height: 1.7em;
     border-bottom: white solid 2px;
+    width: auto;
 }
 .navbar-brand img:hover
 {
@@ -319,6 +320,7 @@ a:hover {
 
 .navbar-brand img[src$=svg] {
     min-width: 100px;
+    max-height: 200px;
 }
 
 .nav-center .navbar-brand img {
