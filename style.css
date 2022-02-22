@@ -311,7 +311,9 @@ a:hover {
     display: inline-block;
     height: 1.7em;
     border-bottom: white solid 2px;
-    width: auto;
+    width: 200px;
+    height: 50px;
+    max-width: 200px;
 }
 .navbar-brand img:hover
 {
