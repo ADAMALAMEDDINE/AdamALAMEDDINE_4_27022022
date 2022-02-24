@@ -839,6 +839,7 @@ h4 {
     margin-bottom: 24px;
     width: 280px;
     height: 280px;
+    box-sizing: border-box;
 }
 
 .portfolio-row {
